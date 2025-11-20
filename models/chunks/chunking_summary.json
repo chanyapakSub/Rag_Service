@@ -1,0 +1,15 @@
+{
+  "num_documents": 20,
+  "num_chunks": 467,
+  "chunks_per_doc": 23.35,
+  "chunk_size": 300,
+  "overlap": 50,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "avg_chunk_length": 296.1284796573876,
+  "output_files": {
+    "embeddings": "models/chunks/embeddings.npy",
+    "metadata": "models/chunks/chunk_metadata.csv",
+    "chunks_data": "models/chunks/chunks_data.json"
+  }
+}

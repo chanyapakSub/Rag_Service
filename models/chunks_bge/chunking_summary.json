@@ -1,0 +1,15 @@
+{
+  "num_documents": 20,
+  "num_chunks": 933,
+  "chunks_per_doc": 46.65,
+  "chunk_size": 156,
+  "overlap": 31,
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "embedding_dim": 768,
+  "avg_chunk_length": 154.60342979635584,
+  "output_files": {
+    "embeddings": "models/chunks_bge/embeddings.npy",
+    "metadata": "models/chunks_bge/chunk_metadata.csv",
+    "chunks_data": "models/chunks_bge/chunks_data.json"
+  }
+}

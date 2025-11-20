@@ -1,0 +1,10 @@
+{
+  "num_documents": 20,
+  "avg_doc_length": 5797.1,
+  "median_doc_length": 3137.5,
+  "num_single_passage_q": 40,
+  "num_multi_passage_q": 40,
+  "num_no_answer_q": 40,
+  "recommended_chunk_size": 300,
+  "recommended_overlap": 50
+}
